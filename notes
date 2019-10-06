@@ -1,0 +1,5 @@
+Advantages to having front-end&views(ReactJS&ReactNative) separate from backend:
+You can keep your backend doing what it does best and you can have multiple
+frontends (web/mobile/desktop client, API, etc.).
+
+A react component is a function that returns an HTML fragment(s).
